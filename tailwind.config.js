@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./dist/index.html"],
+  content: ["./docs/index.html"],
   theme: {
     fontFamily: {
       sans: ["Catamaran", "sans-serif"],
@@ -24,9 +24,12 @@ module.exports = {
       },
       minHeight: {
         "50vw": "50vw",
+        '150vw': '150vw'
       },
       padding: {
         "5vw": "5vw",
+      },
+      height: {
       },
       listStyleType: {
         arrow: "'▸'",
