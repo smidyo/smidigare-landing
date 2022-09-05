@@ -18,9 +18,9 @@ module.exports = {
         "4vw": "4vw",
       },
       dropShadow: {
-        brand: "0.2vw 0.2vw 0 #24FF9A",
-        "brand-offset": "0.6vw 0.6vw 0 #24FF9A",
-        "stone-400-offset": "0.6vw 0.6vw 0 #d6d3d1",
+        brand: "0.2rem 0.2rem 0 #24FF9A",
+        "brand-offset": "0.4rem 0.4rem 0 #24FF9A",
+        "stone-400-offset": "0.4rem 0.4rem 0 #d6d3d1",
       },
       minHeight: {
         "50vw": "50vw",
